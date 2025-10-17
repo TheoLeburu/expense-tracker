@@ -15,9 +15,14 @@ A Java Swing application for managing personal finances with beautiful charts an
 - **Monthly Analytics** - Track your spending over time
 - **Payment Method Tracking** - Cash, credit card, debit card, etc.
 
+
 ## 📸 Screenshots
 
-*(Add your screenshots here after taking them)*
+<p align="center">
+  <img src="Screenshots/Screenshot%202025-10-16%20225832.png" width="600"><br>
+  <img src="Screenshots/Screenshot%202025-10-16%20225857.png" width="600"><br>
+  <img src="Screenshots/Screenshot%202025-10-16%20225909.png" width="600">
+</p>
 
 ## 🛠️ Technologies Used
 
